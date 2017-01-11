@@ -1,0 +1,17 @@
+/Users/vzool/Unity3DWorkspace/Roll a Ball/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/vzool/Unity3DWorkspace/Roll a Ball/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/vzool/Unity3DWorkspace/Roll a Ball/obj/Debug/Assembly-CSharp.dll
+/Users/vzool/Unity3DWorkspace/Roll a Ball/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/vzool/Unity3DWorkspace/Roll a Ball/Temp/bin/Debug/UnityEngine.dll
+/Users/vzool/Unity3DWorkspace/Roll a Ball/Temp/bin/Debug/UnityEditor.dll
+/Users/vzool/Unity3DWorkspace/Roll a Ball/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/vzool/Unity3DWorkspace/Roll a Ball/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/vzool/Unity3DWorkspace/Roll a Ball/Temp/bin/Debug/Mono.Cecil.dll
+/Users/vzool/Unity3DWorkspace/Roll a Ball/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/vzool/Unity3DWorkspace/Roll a Ball/Temp/bin/Debug/Unity.DataContract.dll
+/Users/vzool/Unity3DWorkspace/Roll a Ball/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/vzool/Unity3DWorkspace/Roll a Ball/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/vzool/Unity3DWorkspace/Roll a Ball/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/vzool/Unity3DWorkspace/Roll a Ball/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/vzool/Unity3DWorkspace/Roll a Ball/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/vzool/Unity3DWorkspace/Roll a Ball/Temp/bin/Debug/Mono.Cecil.Mdb.dll
